@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+openai
+langchain
+Faker
+pydantic[email]==1.10.13
+python-slugify
+python-dotenv
+boto3
+psycopg2-binary
+tenacity==8.3.0

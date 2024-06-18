@@ -1,0 +1,429 @@
+interest_id,category,mobi_feature,travelogue_feature,mobi_sub_feature,travelogue_mobi_sub_feature,source
+1258489123,EXPERIENCE,On a Budget,,1.5 star hotel,,
+890442893,EXPERIENCE,On a Budget,,1 star hotel,,
+1935875005,EXPERIENCE,On a Budget,,2.5 star hotel,,
+954280751,EXPERIENCE,On a Budget,,2 star hotel,,
+1651260061,EXPERIENCE,On a Budget,,3.5 star hotel,,
+1037388225,EXPERIENCE,On a Budget,,3 star hotel,,
+1699305779,EXPERIENCE,Luxury,,4.5 star hotel,,
+734292137,EXPERIENCE,Luxury,,4 star hotel,,
+43916960,EXPERIENCE,Luxury,,5 star hotel,,
+2110934202,EXPERIENCE,Family Friendly,,Agritourism,,
+874339373,EXPERIENCE,Nature,,Agritourism,,
+1902601024,EXPERIENCE,On a Budget,,Agritourism,,
+911372972,EXPERIENCE,Relaxing,,Air conditioning,,
+1010835676,EXPERIENCE,Luxury,,All-Inclusive,,
+2032087072,EXPERIENCE,Outdoors,,Amenity,,
+1992324530,EXPERIENCE,Luxury,,Apart-Hotel,,
+1497040065,EXPERIENCE,On a Budget,,Apartment,,
+503193152,EXPERIENCE,Outdoors,,Balcony,,
+921392114,EXPERIENCE,Nightlife,,Bars,,
+1008235100,EXPERIENCE,Water,,Bathtub,,
+1627142080,EXPERIENCE,On a Budget,,Bed & Breakfast,,
+950954025,EXPERIENCE,Shopping,,Brand,,
+1174699963,EXPERIENCE,Food & Drink,,Breakfast available,,
+1965116518,EXPERIENCE,Woodsy,,Cabin,,
+969699948,EXPERIENCE,Outdoors,,Caravan Park,,
+190797323,EXPERIENCE,History & Culture,,Castle,,
+553061364,EXPERIENCE,Luxury,,Chalet,,
+1480938262,EXPERIENCE,Luxury,,Condo,,
+2110546658,EXPERIENCE,Luxury,,Condominium Resort,,
+1641959321,EXPERIENCE,Food & Drink,,Oven,,
+580541675,EXPERIENCE,Luxury,,Pillow menu,,
+568421682,EXPERIENCE,Luxury,,Premium bedding,,
+793017729,ACCOMMODATION,Wellness,,Shower,,
+1702560284,ACCOMMODATION,Shopping,,Slippers,,
+936514351,ACCOMMODATION,Food & Drink,,Snack bar/deli,,
+555426750,ACCOMMODATION,Food & Drink,,Stovetop,,
+445657106,ACCOMMODATION,On a Budget,,Wifi in all rooms,,
+5247133,ACCOMMODATION,Woodsy,,Cottage,,
+559095919,ACCOMMODATION,History & Culture,,Country House,,
+1833195099,ACCOMMODATION,Water,,Cruise,,
+1896957986,ACCOMMODATION,Wellness,,Fitness center,,
+871383812,ACCOMMODATION,On a Budget,,Free Wifi in all rooms,,
+57299505,ACCOMMODATION,On a Budget,,Free Wifi in public areas,,
+1093405626,ACCOMMODATION,On a Budget,,Guest House,,
+142488441,ACCOMMODATION,Parks,,Holiday Park,,
+509542423,ACCOMMODATION,On a Budget,,Hostel / Backpacker Accommodation,,
+1923553092,ACCOMMODATION,On a Budget,,Hostel (Budget Hotel),,
+1569138673,ACCOMMODATION,Luxury,,Hotel Resort,,
+1558336969,ACCOMMODATION,Water,,House Boat,,
+1989436543,ACCOMMODATION,Wellness,,Hypo-allergenic bedding,,
+791706589,ACCOMMODATION,Water,,Indoor pool,,
+1723927146,ACCOMMODATION,History & Culture,,Inn,,
+2001607418,ACCOMMODATION,On a Budget,,Internet access in all rooms,,
+662590163,ACCOMMODATION,Food & Drink,,Kitchenette,,
+550647365,ACCOMMODATION,Outdoors,,Lodge,,
+417688383,ACCOMMODATION,Wellness,,Massage & Spa,,
+1573543896,ACCOMMODATION,History & Culture,,Palace,,
+846532049,ACCOMMODATION,On a Budget,,Pension,,
+158664474,EXPERIENCE,Water,,Pool,,
+889198498,EXPERIENCE,Luxury,,Pousada (Brazil),,
+620242481,EXPERIENCE,History & Culture,,Pousada (Portugal),,
+2079933864,EXPERIENCE,Luxury,,Private Vacation Home,,
+561015698,EXPERIENCE,Outdoors,,Ranch,,
+243734927,EXPERIENCE,History & Culture,,Residence,,
+971909150,EXPERIENCE,Food & Drink,,Restaurants,,
+1487091953,EXPERIENCE,Luxury,,Riad,,
+61551611,EXPERIENCE,Luxury,,Room service,,
+51466385,EXPERIENCE,Wellness,,Ryokan,,
+1789134510,EXPERIENCE,Adventure,,Safari / Tentalow,,
+688002562,EXPERIENCE,Nature,,Safari / Tentalow,,
+339421042,EXPERIENCE,Outdoors,,Safari / Tentalow,,
+656946340,EXPERIENCE,Family Friendly,,Safe,,
+1253134303,EXPERIENCE,On a Budget,,Sofa bed,,
+516899008,EXPERIENCE,Outdoors,,Terrace,,
+1082000988,EXPERIENCE,Luxury,,TownHouse,,
+1596474842,EXPERIENCE,Nature,,Tree House,,
+1784164001,EXPERIENCE,Luxury,,Villa,,
+113124397,EXPERIENCE,Family Friendly,,Wheelchair accessible,,
+887633343,EXPERIENCE,On a Budget,,Wifi in public areas,,
+603020477,EXPERIENCE,On a Budget,,Wired internet in all rooms,,
+326975616,EXPERIENCE,Food & Drink,,BBQ grill,,
+1505907188,EXPERIENCE,Luxury,,Blackout drapes/curtains,,
+1599891032,EXPERIENCE,Food & Drink,,Coffee/tea maker,,
+1423079046,EXPERIENCE,Artsy,,Desk,,
+2077493237,EXPERIENCE,On a Budget,,Dishwasher,,
+1866929251,EXPERIENCE,Luxury,,Down comforter,,
+1462969564,EXPERIENCE,Food & Drink,,Electric kettle,,
+1635267849,EXPERIENCE,Luxury,,Flat-screen TV,,
+420952703,EXPERIENCE,Food & Drink,,Free coffee/tea bags,,
+50744046,EXPERIENCE,Nature,,Garden,,
+83570770,EXPERIENCE,Nightlife,,Bar,,
+1762796715,EXPERIENCE,On a Budget,,Free internet access in all rooms,,
+1201223067,EXPERIENCE,On a Budget,,Free internet access in public areas,,
+789264909,EXPERIENCE,On a Budget,,Motel,,
+1670929391,EXPERIENCE,Luxury,,Separate living room,,
+1684105245,EXPERIENCE,Luxury,,Star Rating,,
+1638693003,EXPERIENCE,Tours,,Visitor Centers,,
+342973185,EXPERIENCE,Luxury,,Hair dryer,,
+1528326251,EXPERIENCE,Wellness,,Heating,,
+1302100216,ACCOMMODATION,Luxury,,Hotel,,
+697043210,ACCOMMODATION,On a Budget,,Iron/ironing board,,
+650254741,EXPERIENCE,Food & Drink,,Kitchen,,Types
+1878208231,EXPERIENCE,On a Budget,,Laundry,,Types
+1843281716,EXPERIENCE,Food & Drink,,Microwave,,Types
+1915423226,EXPERIENCE,Outdoors,,Parking & Shuttle,,Types
+1730312198,EXPERIENCE,Adventure,,"4WD, ATV & Off-Road Tours",,Types
+1281036084,EXPERIENCE,Adventure,,"4WD, ATV & Off-Road Tours",,Types
+2070228501,ACCOMMODATION,Activities,,Activities,,Places
+97860938,ACCOMMODATION,Adventure,,Adrenaline & Extreme Tours,,Places
+1034748478,ACCOMMODATION,Shopping,,Airport Shops,,Places
+1288966473,ACCOMMODATION,Tours,,Air Tours,,Places
+27477877,ACCOMMODATION,Fun & Games,,Amusement park,,Places
+1104369350,ACCOMMODATION,History & Culture,,Ancient Ruins,,Places
+87844390,ACCOMMODATION,Shopping,,Antique Stores,,Places
+156111955,ACCOMMODATION,Museums,,Aquariums,,Places
+2108496809,EXPERIENCE,Wellness,,Arab Baths,,Types
+1007168249,EXPERIENCE,History & Culture,,Archaeology Tours,,Types
+2138323535,EXPERIENCE,History & Culture,,Architectural Buildings,,Types
+1071597985,EXPERIENCE,Outdoors,,Arenas & Stadiums,,Types
+1148213453,EXPERIENCE,Artsy,,Art Galleries,,Types
+757164155,EXPERIENCE,Artsy,,Art Museums,,Types
+1923907557,EXPERIENCE,Tours,,Art & Music Tours,,Types
+583405268,EXPERIENCE,Action Packed,,Auto Race Tracks,,Types
+1159409140,EXPERIENCE,Adventure,,Balloon Rides,,Types
+188890406,EXPERIENCE,Tours,,"Bar, Club & Pub Tours",,Types
+1445416010,EXPERIENCE,Tours,,"Bar, Club & Pub Tours",,Types
+2128503584,EXPERIENCE,Nightlife,,Bars & Clubs,,Types
+741867983,EXPERIENCE,History & Culture,,Battlefields,,Types
+1124995454,EXPERIENCE,Beaches,,Beaches,,Types
+1000546477,EXPERIENCE,Beaches,,Beach & Pool Clubs,,Types
+990201716,EXPERIENCE,Food & Drink,,Beer Tastings & Tours,,Types
+1979930297,EXPERIENCE,Tours,,Bike Tours,,Types
+652043718,EXPERIENCE,Outdoors,,Biking,,Types
+1957328214,EXPERIENCE,Outdoors,,Biking Trails,,Types
+1017386816,EXPERIENCE,Luxury,,Wedding Chapels,,Types
+514917536,EXPERIENCE,Nightlife,,Blues Clubs & Bars,,Types
+793056309,EXPERIENCE,Water,,Boat Rentals,,Types
+1864571739,EXPERIENCE,Tours,,Boat Tours,,Types
+781265578,EXPERIENCE,Tours,,Boat Tours & Water Sports,,Types
+2125216317,EXPERIENCE,Water,,Boat Tours & Water Sports,,Types
+757221711,EXPERIENCE,Water,,Bodies of Water,,Types
+1834113183,EXPERIENCE,Fun & Games,,Bowling Alleys,,Types
+409145042,EXPERIENCE,Food & Drink,,Breweries,,Types
+1597251104,EXPERIENCE,Scenic,,Bridges,,Types
+1759915444,EXPERIENCE,Tours,,Bus Tours,,Types
+1483226312,EXPERIENCE,Tours,,Bus Transportation,,Types
+69489618,EXPERIENCE,Adventure,,Canyoning & Rappelling Tours,,Types
+1286300482,EXPERIENCE,Nature,,Canyons,,Types
+680788441,EXPERIENCE,Fun & Games,,Casinos,,Types
+2125140303,EXPERIENCE,Nightlife,,Casinos,,Types
+920395903,EXPERIENCE,Fun & Games,,Casinos,,Types
+1832007649,EXPERIENCE,Nightlife,,Casinos,,Types
+857425756,EXPERIENCE,Nightlife,,Casinos & Gambling,,Types
+692348389,EXPERIENCE,History & Culture,,Castles,,Types
+2123199830,EXPERIENCE,Nature,,Caverns & Caves,,Types
+1860306119,EXPERIENCE,History & Culture,,Cemeteries,,Types
+2042567529,EXPERIENCE,Fun & Games,,Character Experiences,,Types
+816917211,EXPERIENCE,Museums,,Children's Museums,,Types
+493762962,EXPERIENCE,History & Culture,,Churches & Cathedrals,,Types
+984435041,EXPERIENCE,Nightlife,,Cigar Bars,,Types
+1941133519,EXPERIENCE,Tours,,City Tours,,Types
+1514499999,EXPERIENCE,History & Culture,,Civic Centers,,Types
+1702199149,EXPERIENCE,Activities,,Classes & Workshops,,Types
+1768689394,EXPERIENCE,Adventure,,Climbing Tours,,Types
+2122784128,EXPERIENCE,Food & Drink,,Coffeehouses,,Types
+267857172,EXPERIENCE,Food & Drink,,Coffee & Tea Tours,,Types
+779107560,EXPERIENCE,Fun & Games,,Comedy Clubs,,Types
+140788614,EXPERIENCE,Fun & Games,,Concerts & Shows,,Types
+254964346,EXPERIENCE,Food & Drink,,Cooking Classes,,Types
+1895629067,EXPERIENCE,Food & Drink,,Cooking Classes,,Types
+253310783,EXPERIENCE,Nightlife,,Country & Western Bars,,Types
+1142376109,EXPERIENCE,Outdoors,,Cross-country Ski Areas,,Types
+2001626379,EXPERIENCE,Tours,,Cultural Tours,,Types
+7697585,EXPERIENCE,Nature,,Dams,,Types
+862651425,EXPERIENCE,Scenic,,Dams,,Types
+2135100180,EXPERIENCE,Nightlife,,Dance Clubs & Discos,,Types
+151460536,EXPERIENCE,Nightlife,,Dancing,,Types
+1111501349,EXPERIENCE,Tours,,Day Trips,,Types
+993081618,EXPERIENCE,Shopping,,Department Stores,,Types
+1940932738,EXPERIENCE,Nature,,Deserts,,Types
+110123069,EXPERIENCE,Food & Drink,,Distilleries,,Types
+846819304,EXPERIENCE,Tours,,Distillery Tours,,Types
+730037916,EXPERIENCE,Fun & Games,,Dog Tracks,,Types
+1017122318,EXPERIENCE,Fun & Games,,Dog Tracks,,Types
+1817320866,EXPERIENCE,Nature,,Dolphin & Whale Watching,,Types
+849685644,EXPERIENCE,Tours,,Duck Tours,,Types
+1665350680,EXPERIENCE,Outdoors,,E-bikes,,Types
+451756964,EXPERIENCE,Tours,,Eco Tours,,Types
+987976566,EXPERIENCE,History & Culture,,Educational sites,,Types
+701391366,EXPERIENCE,Outdoors,,Equestrian Trails,,Types
+1107521962,EXPERIENCE,Fun & Games,,Escape room,,Types
+1173291385,EXPERIENCE,Artsy,,Events,,Types
+976424971,EXPERIENCE,Family Friendly,,Events,,Types
+2018977681,EXPERIENCE,Nightlife,,Events,,Types
+432289633,EXPERIENCE,Shopping,,Factory Outlets,,Types
+1308641023,EXPERIENCE,Tours,,Factory Tours,,Types
+1055937929,EXPERIENCE,Food & Drink,,Farmers Markets,,Types
+1500734813,EXPERIENCE,Nature,,Farms,,Types
+167867635,EXPERIENCE,Artsy,,Fashion Shows & Tours,,Types
+1860336517,EXPERIENCE,Shopping,,Fashion Shows & Tours,,Types
+1696860949,EXPERIENCE,Water,,Ferries,,Types
+1274485272,EXPERIENCE,Fun & Games,,Fireworks,,Types
+825043588,EXPERIENCE,Outdoors,,Fishing,,Types
+2129541617,EXPERIENCE,Tours,,Fishing Charters & Tours,,Types
+2135644298,EXPERIENCE,Shopping,,Flea & Street Markets,,Types
+808415225,EXPERIENCE,Food & Drink,,Food & Drink,,Types
+906853932,EXPERIENCE,Food & Drink,,Food & drinks,,Types
+423825055,EXPERIENCE,Food & Drink,,Food & tasting,,Types
+258612494,EXPERIENCE,Tours,,Food Tours,,Types
+1193225277,EXPERIENCE,Nature,,Forests,,Types
+1122319528,EXPERIENCE,Water,,Fountains,,Types
+2071814822,EXPERIENCE,Fun & Games,,Fun & Games,,Types
+1957327126,EXPERIENCE,Fun & Games,,Game & Entertainment Centers,,Types
+1134166409,EXPERIENCE,Nature,,Gardens,,Types
+392695973,EXPERIENCE,Outdoors,,Gear Rentals,,Types
+221062963,EXPERIENCE,Nature,,Geologic Formations,,
+13973405,EXPERIENCE,History & Culture,,Ghost Towns,,
+1347765933,EXPERIENCE,Tours,,Ghost & Vampire Tours,,
+1089885503,EXPERIENCE,Shopping,,Gift & Specialty Shops,,
+1129342349,EXPERIENCE,Outdoors,,Golf Courses,,
+211645649,EXPERIENCE,Water,,Gondola Cruises,,
+2022472483,EXPERIENCE,History & Culture,,Government Buildings,,
+313006792,EXPERIENCE,Wellness,,Hammams & Turkish Baths,,
+362031396,EXPERIENCE,Wellness,,Health/Fitness Clubs & Gyms,,
+10500528,EXPERIENCE,Tours,,Helicopter Tours,,
+1360611526,EXPERIENCE,Outdoors,,Hiking,,Types
+1212374874,EXPERIENCE,Outdoors,,Hiking & Camping Tours,,Types
+1332244394,EXPERIENCE,Outdoors,,Hiking Trails,,Types
+264470268,EXPERIENCE,History & Culture,,Historical & Heritage Tours,,Types
+1498418545,EXPERIENCE,History & Culture,,Historic Sites,,Types
+1724390815,EXPERIENCE,History & Culture,,Historic Walking Areas,,Types
+1505569806,EXPERIENCE,History & Culture,,History Museums,,Types
+16794604,EXPERIENCE,Tours,,Hop-On Hop-Off Tours,,Types
+224350736,EXPERIENCE,Adventure,,Horseback Riding Tours,,Types
+1389060421,EXPERIENCE,Tours,,Horse-Drawn Carriage Tours,,Types
+1034318326,EXPERIENCE,Activities,,Horse Tracks,,Types
+1406875235,EXPERIENCE,Wellness,,Hot spring,,Types
+696075610,EXPERIENCE,Nature,,Hot Springs & Geysers,,Types
+585853776,EXPERIENCE,Activities,,Ice skating,,Types
+350628292,EXPERIENCE,Nature,,Islands,,Types
+617691216,EXPERIENCE,Nightlife,,Jazz Clubs & Bars,,Types
+911296740,EXPERIENCE,Outdoors,,Jogging,,Types
+703946550,EXPERIENCE,Outdoors,,Jogging Paths & Tracks,,Types
+1649241690,EXPERIENCE,Fun & Games,,Karaoke,,Types
+1878884066,EXPERIENCE,Nightlife,,Karaoke,,Types
+359009587,EXPERIENCE,Nightlife,,Karaoke Bars,,Types
+1249320013,EXPERIENCE,Action Packed,,Kayaking & Canoeing,,Types
+1416244447,EXPERIENCE,Adventure,,Kayaking & Canoeing,,Types
+1618752303,EXPERIENCE,Outdoors,,Kayaking & Canoeing,,Types
+1969308605,EXPERIENCE,Water,,Kayaking & Canoeing,,Types
+553017635,EXPERIENCE,Fun & Games,,Lazer shooting game,,Types
+1021276617,EXPERIENCE,Activities,,Lessons & Workshops,,Types
+222888121,EXPERIENCE,Scenic,,Lighthouses,,Types
+52500263,EXPERIENCE,Artsy,,Literary,,Types
+525936592,EXPERIENCE,Tours,,"Literary, Art & Music Tours",,Types
+1293894955,EXPERIENCE,Scenic,,Lookouts,,Types
+1723553242,EXPERIENCE,Water,,Marinas,,Types
+1815503949,EXPERIENCE,Wellness,,Massage & spa,,Types
+881228780,EXPERIENCE,Tours,,Mass Transportation Systems,,Types
+1672940126,EXPERIENCE,History & Culture,,Military Bases & Facilities,,Types
+1844058826,EXPERIENCE,History & Culture,,Military Museums,,Types
+624568828,EXPERIENCE,History & Culture,,Mines,,Types
+758134864,EXPERIENCE,Fun & Games,,Mini Golf,,Types
+614746308,EXPERIENCE,History & Culture,,Missions,,Types
+1389191158,EXPERIENCE,History & Culture,,Monuments & Statues,,Types
+1863806582,EXPERIENCE,Tours,,Motorcycle Tours,,Types
+1840283330,EXPERIENCE,Outdoors,,Motorcycle Trails,,Types
+392695123,EXPERIENCE,Nature,,Mountains,,Types
+1206459491,EXPERIENCE,Fun & Games,,Movie Theaters,,
+1530408137,EXPERIENCE,Tours,,Movie & TV Tours,,
+1721578335,EXPERIENCE,Tours,,Multi-day Tours,,
+362693231,EXPERIENCE,Museums,,Museums,,
+552620785,EXPERIENCE,Museums,,Museums,,
+612524363,EXPERIENCE,History & Culture,,Mysterious Sites,,
+1144221723,EXPERIENCE,Nature,,National Parks,,
+527827178,ACCOMMODATION,Museums,,Natural History Museums,,
+111744837,EXPERIENCE,Nature,,Nature & Parks,Escape the Room,
+646718992,EXPERIENCE,Parks,,Nature & Parks,Escape the Room,Types
+1206204132,EXPERIENCE,Nature,,Nature & Wildlife Areas,,Types
+1376011641,EXPERIENCE,Tours,,Nature & Wildlife Tours,,Types
+1664832522,EXPERIENCE,History & Culture,,Neighborhoods,,Types
+1932027042,EXPERIENCE,Nightlife,,Nightlife,,Types
+778857297,EXPERIENCE,Tours,,Night Tours,,Types
+1151236668,EXPERIENCE,Scenic,,Observation Decks & Towers,,Types
+1974078127,EXPERIENCE,Museums,,Observatories & Planetariums,,Types
+484710750,EXPERIENCE,Adventure,,Off-Road & ATV Trails,,Types
+421931458,EXPERIENCE,Wellness,,Onsen Resorts,,Types
+850213040,EXPERIENCE,Outdoors,,Outdoor Activities,,Types
+845238052,EXPERIENCE,Artsy,,Paint & Pottery Studios,,Types
+2039246518,EXPERIENCE,Adventure,,Parasailing & Paragliding,,
+259882278,EXPERIENCE,Parks,,Parks,,Types
+1500716165,EXPERIENCE,Parks,,People watching,,Types
+1950425915,EXPERIENCE,Tours,,Photography Tours,,Types
+311440301,EXPERIENCE,Artsy,,Photoshoot,,Types
+985547421,EXPERIENCE,Parks,,Picnic,,Types
+750997807,EXPERIENCE,Outdoors,,Piers & Boardwalks,,Types
+1523212733,EXPERIENCE,Family Friendly,,Playgrounds,,Types
+2025615497,EXPERIENCE,History & Culture,,Points of Interest & Landmarks,,Types
+1149842692,EXPERIENCE,Tours,,Private Tours,,Types
+1800557621,EXPERIENCE,Tours,,Rail Tours,,Types
+921197314,EXPERIENCE,History & Culture,,Railways,,Types
+1430944301,EXPERIENCE,Outdoors,,Ranches,,Types
+426380025,,Water,,Reefs,,
+124145276,,Activities,,Rides & Activities,,
+1140744168,,Adventure,,River Rafting & Tubing,,
+442527509,,Action Packed,,Rock climbing,,
+1275100294,,Adventure,,Rock climbing,,
+1392774647,,Outdoors,,Rock climbing,,
+403250533,,History & Culture,,Roman Baths,,
+1173627529,,Fun & Games,,Room Escape Games,,
+1285440353,,Tours,,Running Tours,,
+1983864847,,History & Culture,,Sacred & Religious Sites,,
+861434233,,Adventure,,Safaris,,
+465126408,,Fun & Games,,Scavenger Hunts,,
+1466520980,,Scenic Drives,,Scenic Drives,,
+356670118,,Scenic,,Scenic Railroads,,
+1164405298,,Nature,,Scenic Walking Areas,,
+101546906,,Scenic,,Scenic Walking Areas,,
+284952808,,Museums,,Science Museums,,
+1398937661,,Tours,,Scooter & Moped Tours,,
+307571087,,Action Packed,,Scuba diving,,
+1308375326,,Adventure,,Scuba diving,,
+1700744749,,Outdoors,,Scuba diving,,
+1457938363,,Water,,Scuba diving,,
+356609812,,Adventure,,Scuba & Snorkeling,,
+1529248801,,Water,,Scuba & Snorkeling,,
+784338353,,Tours,,Segway Tours,,
+1835801863,,Tours,,Self-Guided Tours & Rentals,,
+1477780056,,Adventure,,Shark Diving,,
+1626813333,,History & Culture,,Ships,,
+1601848067,,Fun & Games,,Shooting Ranges,,
+316231794,,Shopping,,Shopping,,
+1598710173,,Shopping,,Shopping Malls,,
+399274255,,Tours,,Shopping Tours,,
+1875576447,,Tours,,Sightseeing Tours,,
+719460334,,History & Culture,,Sights & Landmarks,,
+1917069074,,Outdoors,,Skiing,,
+652883082,,Snow,,Ski & Snowboard Areas,,
+1673545208,,Snow,,Ski & Snow Tours,,
+783504660,,Adventure,,Skydiving,,
+459037312,,Adventure,,Sky diving,,
+1437625334,,Tours,,Smartphone/app Tours,,
+204438378,,Action Packed,,Snorkeling,,
+1765935259,,Adventure,,Snorkeling,,
+872946123,,Nature,,Snorkeling,,
+1563961697,,Outdoors,,Snorkeling,,
+214056591,,Water,,Snorkeling,,
+416440169,,Wellness,,Spas,,
+702508275,,Wellness,,Spas & Wellness,,
+128875971,,Museums,,Specialty Museums,,
+1067781458,,Tours,,Speed Boats Tours,,
+1517359845,,Activities,,Sports Camps & Clinics,,
+303964679,,Activities,,Sports Complexes,,
+1321743188,,Water,,Stand-Up Paddleboarding,,
+478298337,,Nature,,State Parks,,
+750276723,,Tours,,Submarine Tours,,
+249520458,,Action Packed,,Surfing,,
+1443264217,,Adventure,,Surfing,,
+1309410924,,Outdoors,,Surfing,,
+139270079,,Water,,Surfing,,
+1918379182,,With Friends,,Surfing,,
+962475034,,Action Packed,,"Surfing, Windsurfing & Kitesurfing",,
+1428178376,,Adventure,,"Surfing, Windsurfing & Kitesurfing",,
+49564340,,Outdoors,,"Surfing, Windsurfing & Kitesurfing",,
+1240685088,,Water,,"Surfing, Windsurfing & Kitesurfing",,
+1719626710,,Action Packed,,"Surfing, Windsurfing & Kitesurfing",,
+796687174,,Adventure,,"Surfing, Windsurfing & Kitesurfing",,
+2138572841,,Outdoors,,"Surfing, Windsurfing & Kitesurfing",,
+945691027,,Water,,"Surfing, Windsurfing & Kitesurfing",,
+1408444739,,Action Packed,,"Surfing, Windsurfing & Kitesurfing",,
+1043742269,,Adventure,,"Surfing, Windsurfing & Kitesurfing",,
+2022854575,,Outdoors,,"Surfing, Windsurfing & Kitesurfing",,
+313286495,,Water,,"Surfing, Windsurfing & Kitesurfing",,
+1489005773,,Water,,Swimming,,
+949255587,,Adventure,,Swim with Dolphins,,
+969280850,,Family Friendly,,Swim with Dolphins,,
+1355158234,,Nature,,Swim with Dolphins,,
+1054155689,,Water,,Swim with Dolphins,,
+1543582580,,Tours,,Taxis & Shuttles,,
+803229781,,Fun & Games,,Theme Park,,
+285172090,,Wellness,,Thermal Spas,,
+1479767754,,Tours,,Tours,,
+1051400033,,Tours,,Tramways,,
+1074668799,,History & Culture,,Transportation,,
+58078286,,Tours,,Traveler Resources,,
+511331059,,Tours,,Trip,,
+1609456192,,History & Culture,,Universities & Schools,,
+1763535828,,Nature,,Valleys,,
+1580890342,,Adventure,,Vespa,,
+1242433607,,Outdoors,,Vespa,,
+444471797,,Tours,,"Vespa, Scooter & Moped Tours",,
+850804307,,Fun & Games,,Virtual Reality,,
+1553092601,,Nature,,Volcanos,,
+654073001,,Outdoors,,Walking,,
+1239313503,,Tours,,Walking Tours,,
+199916993,,Fun & Games,,Water & Amusement Parks,,
+721879742,,Nature,,Waterfalls,,
+1669927466,,Fun & Games,,Water Park,,
+217326554,,Action Packed,,Waterskiing & Jetskiing,,
+1539060598,,Adventure,,Waterskiing & Jetskiing,,
+538853408,,Outdoors,,Waterskiing & Jetskiing,,
+1268208084,,Water,,Waterskiing & Jetskiing,,
+48193865,,Action Packed,,Water Sports,,
+1641510458,,Adventure,,Water Sports,,
+307759027,,Outdoors,,Water Sports,,
+1665353038,,Action Packed,,Windsurfing & Kitesurfing,,
+808733213,,Adventure,,Windsurfing & Kitesurfing,,
+2063489955,,Outdoors,,Windsurfing & Kitesurfing,,
+718367540,,Water,,Windsurfing & Kitesurfing,,
+235108361,,Food & Drink,,Wine Bars,,
+111872409,,Food & Drink,,Wineries & Vineyards,,
+904337719,,Food & Drink,,Wine Tours & Tastings,,
+2137403073,,Tours,,Wine Tours & Tastings,,
+1581072277,,Food & Drink,,Wine Tours & Tastings,,
+250367787,,Tours,,Wine Tours & Tastings,,
+487222669,,Wellness,,Yoga & Pilates,,
+509705695,,Adventure,,Zipline & Aerial Adventure Parks,,
+1595736652,,Nature,,Zoos,,
+346624894,,Nature,,Zoos & Aquariums,,
+316679146,,Nightlife,,Bar,,
+1726300514,,Adventure,,4WD,,
+1737445812,,Luxury,,Accommodation Type,,
+1498506808,,Luxury,,Airport Lounges,,
+1402631844,,Adventure,,ATV & Off-Road Tours,,
+184485783,,Tours,,Club & Pub Tours,,
+2104955905,,Business,,Conference & Convention Centers,,
+362826431,,History & Culture,,Libraries,,
+109059602,,Food & Drink,,Coffee/Tea available,,

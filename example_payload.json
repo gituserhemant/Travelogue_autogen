@@ -1,0 +1,112 @@
+{
+    "id": "5055a857-336c-49ae-82ba-5aa898e5e39a",
+    "origin": {
+        "id": "d6057b07-b01e-4952-8ee4-66e1516854fe",
+        "lat": 40.7127753,
+        "lng": -74.0059728,
+        "type": "",
+        "allowed_modes": [],
+        "departure_timestamp": 1691078400
+    },
+    "destination": {
+        "arrival_timestamp": 1691649000
+    },
+    "flexible_ordering": true,
+    "activities": [],
+    "mode": "MOBI_AGENT",
+    "budget": {
+        "price": []
+    },
+    "profile": {
+        "user_id": "MobiAgentUser",
+        "user_type": "LEISURE_TRAVELLER",
+        "name": "",
+        "avatar": "",
+        "optional_needs": [],
+        "available_modes": [],
+        "mode_preferences": [],
+        "price_tolerance": null,
+        "preferences": [
+            {
+                "category": "ACCOMMODATION",
+                "included": true,
+                "plan_objective": "EXPLORATION",
+                "places": [],
+                "types": [],
+                "minimum_rating": 0,
+                "selection": null
+            },
+            {
+                "category": "DINING",
+                "included": true,
+                "plan_objective": "EXPLORATION",
+                "places": [],
+                "types": [],
+                "minimum_rating": 0,
+                "selection": null
+            },
+            {
+                "category": "EXPERIENCE",
+                "included": true,
+                "plan_objective": "EXPLORATION",
+                "places": [],
+                "types": [],
+                "minimum_rating": 0,
+                "selection": null
+            },
+            {
+                "category": "GEOLOCATION",
+                "included": true,
+                "plan_objective": "NEEDS",
+                "places": [],
+                "types": [],
+                "minimum_rating": 0,
+                "selection": null
+            },
+            {
+                "category": "TRANSPORTATION",
+                "included": true,
+                "plan_objective": "NEEDS",
+                "places": [],
+                "types": [],
+                "minimum_rating": 0,
+                "selection": null
+            },
+            {
+                "category": "TRAVELER",
+                "included": true,
+                "plan_objective": "EXPLORATION",
+                "places": [],
+                "types": [],
+                "minimum_rating": 0,
+                "selection": null
+            },
+            {
+                "category": "TIMEFRAME",
+                "included": true,
+                "plan_objective": "EXPLORATION",
+                "places": [],
+                "types": [],
+                "minimum_rating": 0,
+                "selection": null
+            },
+            {
+                "category": "TRIPPREFERENCE",
+                "included": true,
+                "plan_objective": "EXPLORATION",
+                "places": [],
+                "types": [],
+                "minimum_rating": 0,
+                "selection": null
+            }
+        ]
+    },
+    "traveler_information": {
+        "adults": 1,
+        "rooms": 1,
+        "children": 0,
+        "child_ages": [],
+        "infants": 0,
+        "infant_types": []
+    }
+}
