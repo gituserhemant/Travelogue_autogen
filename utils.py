@@ -14,7 +14,7 @@ import json
 from settings import MOBI_API_KEY
 from location import MobiAPI
 from persona import PersonGeneratedContent, Trip, Hotel, Location, TravelLog
-from db_models import User, UserProfile, UserTrip, TripDestination, UserInterest, Location as DBLocation, LocationImages
+from db_models import User, UserProfile, UserTrip, TripDestination, UserInterest, Location as DBLocation, LocationImages, TripDestinationCategoryDetails
 from datetime import datetime
 from typing import List
 from location import Category
@@ -165,6 +165,18 @@ def create_trip_destination(location: Location, city: str) -> TripDestination:
 
     return trip_destination
 
+def create_trip_destination_place(location: Location) -> TripDestinationCategoryDetails:
+    # create trip destination from location object
+    trip_destination_places = TripDestinationCategoryDetails(
+        dest_stay_start_date=datetime.strptime(
+            location.visit_date, '%Y-%m-%d'),
+        dest_stay_end_date=datetime.strptime(location.visit_date, '%Y-%m-%d'),
+        created_on=datetime.now(),
+        category_id = 2,
+        name = location.name
+    )
+
+    return trip_destination_places
 
 def create_trip_location(location_name: str, category: Category, city: str, country: str, state: str) -> Tuple[DBLocation, List[LocationImages]]:
     # create trip destination from location object

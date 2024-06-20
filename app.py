@@ -1,5 +1,5 @@
 from utils import (
-    create_user, create_user_profile, create_user_trip, create_trip_destination,
+    create_user, create_user_profile, create_user_trip, create_trip_destination,create_trip_destination_place,
     create_user_interests, create_trip_location, generate_profile_image,
     execute_sql
 )
@@ -109,6 +109,7 @@ v_user_id bigint;
 v_trip_id bigint;
 v_location_id bigint;
 v_user_trip_id bigint;
+v_trip_destination_id bigint;
 BEGIN\n
 """
 
@@ -143,9 +144,11 @@ BEGIN\n
                 sql_code += location_obj.to_sql(save_id=True)
                 trip_destination = create_trip_destination(
                     location=location, city=trip.city)
-                sql_code += trip_destination.to_sql()
+                sql_code += trip_destination.to_sql(save_id=True)
+                trip_destination_places = create_trip_destination_place(location=location)
+                sql_code += trip_destination_places.to_sql()
                 for image in location_images:
-                    sql_code += image.to_sql()
+                    sql_code += image.to_sql()   
 
         # st.code(sql_2, language='sql')
 

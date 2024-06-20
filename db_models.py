@@ -6,6 +6,7 @@ from typing import Optional, List
 from datetime import datetime, timedelta, date, time
 import random
 from langchain.output_parsers import PydanticOutputParser
+import streamlit as st
 
 
 table_primary_keys = {
@@ -14,8 +15,9 @@ table_primary_keys = {
     't_user_interest': 'interest_id',
     't_user_trip': 'trip_id',
     't_location': 'location_id',
-    't_trip_destination': 'trip_id',
+    't_trip_destination': 'trip_destination_id',
     't_location_images': 'location_id',
+    't_dest_cat_details': 'dest_cat_details_id'
 }
 
 
@@ -44,7 +46,8 @@ class BaseSQLModel(BaseModel):
 
         for key, value in self.dict(exclude_none=exclude_none).items():
             columns.append(key)
-            if key in ['user_id', 'location_id', 'trip_id']:
+            # st.success(f'Test -------------> {table_name} {", ".join(columns)} : key {key}')
+            if key in ['user_id', 'location_id', 'trip_id','trip_destination_id']:
                 values.append(f"v_{value}")
             elif key in ['created_by',]:
                 values.append(f"v_user_id")
@@ -357,6 +360,24 @@ class TripDestination(BaseSQLModel):
     sequence_no: int = None
     mobi_context: Optional[str] = None
 
+class TripDestinationCategoryDetails(BaseSQLModel):
+    __tablename__ = 't_dest_cat_details'
+
+    trip_destination_id: TripDestination = Field('trip_destination_id', description="Trip Destination ID")
+    location_id: Location = Field('location_id', description="Location ID")
+    name: str = None
+    category_id: int = None
+    sub_catagory_id: int = 0
+    dest_stay_start_date: Optional[datetime] = None
+    dest_stay_end_date: Optional[datetime] = None
+    is_deleted: bool = False
+    created_on: datetime = Field(default_factory=datetime.now)
+    created_by: User = Field('user_id', description="User ID")
+    updated_on: Optional[datetime] = None
+    updated_by: Optional[int] = None
+    notes: Optional[str] = None
+    activity_time: int = None
+    sequence_no: int = None
 
 class LocationImages(BaseSQLModel):
     __tablename__ = 't_location_images'
