@@ -19,7 +19,8 @@ from datetime import datetime
 from typing import List
 from location import Category
 from image_generator import S3Bucket, DeepAIClient
-
+import streamlit as st
+from enum import Enum
 # def create_user_trip(trip: Trip) -> (UserTrip, List[TripDestination]):
 #     user_trip = UserTrip(
 #         trip_name=trip.trip_name,
@@ -164,15 +165,21 @@ def create_trip_destination(location: Location, city: str) -> TripDestination:
     )
 
     return trip_destination
+class Category(Enum):
+    ACCOMMODATION = 1
+    DINING = 2
+    EXPERIENCE = 3
 
 def create_trip_destination_place(location: Location) -> TripDestinationCategoryDetails:
     # create trip destination from location object
+    category_name = location.category
+    category_id = getattr(Category, str(category_name)).value
     trip_destination_places = TripDestinationCategoryDetails(
         dest_stay_start_date=datetime.strptime(
             location.visit_date, '%Y-%m-%d'),
         dest_stay_end_date=datetime.strptime(location.visit_date, '%Y-%m-%d'),
         created_on=datetime.now(),
-        category_id = 2,
+        category_id = category_id,
         name = location.name
     )
 
